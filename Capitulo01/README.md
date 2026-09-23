@@ -48,7 +48,7 @@ Crea una presentación acerca de `/Informe_Avance_Programa_Educacion_Financiera_
 ```
 4. Define el estilo visual para la presentación y luego haz clic en **Confirmar** (imagen referencial).
  
-   ![Imagen2](..images/imagen2.png)
+   ![Imagen2](../images/imagen2.png)
 
 Se irán mostrando los pasos que sigue la IA para la generación de la presentación.
 Al final se mostrará un mensaje indicando cómo se ha creado la presentación: número de slides, tono, contenido, etc.
@@ -72,7 +72,7 @@ Verifica que el contenido del slide 7 se haya modificado para que sea mas claro 
   ```
  Si Copilot pregunta de dónde sacar la información, se puede seleccionar **Usar la presentación actual** y **Confirmar**.
 
-   ![Imagen 3](..images/imagen3.png)
+   ![Imagen 3](../images/imagen3.png)
    
 Confirmar que se crean las 2 diapositivas adicionales de manera correcta.
 
@@ -84,7 +84,7 @@ Confirmar que se crean las 2 diapositivas adicionales de manera correcta.
   
    Si Copilot pide confirmación, reconfirma que solo debe aplicar lo solicitado para esos slides seleccionados, luego **Confirmar**.
 
-   ![Imagen 4](..images/imagen4.png)
+   ![Imagen 4](../images/imagen4.png)
 
 9. Selecciona una Preferencia de imagen: **Imágenes de archivo**.
 
@@ -158,7 +158,7 @@ Sugiere 3 indicadores KPI utiles, por cada uno indicame el nombre, que mide y po
 
 4. Observe el resultado que muestra Copilot, puede ser algo similar a lo siguiente (imagen referencial):
 
-   ![Imagen 5](..images/imagen5.png)
+   ![Imagen 5](../images/imagen5.png)
 
 5. Ahora aplique el siguiente prompt:
 ``` 
@@ -167,7 +167,7 @@ Sugiere 3 indicadores KPI utiles, por cada uno indicame el nombre, que mide y po
 
 6. Observe la respuesta de Copilot (imagen referencial):
 
-   ![Imagen 6](..images/imagen6.png)
+   ![Imagen 6](../images/imagen6.png)
 
 7. Aplica el siguiente prompt:
 ``` 
@@ -176,7 +176,7 @@ Sugiere 3 indicadores KPI utiles, por cada uno indicame el nombre, que mide y po
 
    Se debe poder apreciar la columna agregada a la tabla de datos, revisa si todo esta conforme y haz clic en **Listo** (imagen referencial):
 
-   ![Imagen 7](..images/imagen7.png)
+   ![Imagen 7](../images/imagen7.png)
 
 8. Repita los pasos previos si desea agregar los otros KPIs recomendados por Copilot.
 
@@ -186,7 +186,7 @@ Añade las columnas correspondientes a los 3 KPIs que recomendaste previamente.
 ``` 
 Resultado referencial:
 
-  ![Imagen 8](..images/imagen8.png)
+  ![Imagen 8](../images/imagen8.png)
 
 ### Ejercicio 2: Análisis de datos
 
@@ -205,7 +205,7 @@ Resultado referencial:
 
 4. Observa la respuesta devuelta por Copilot, debe ser similar a lo siguiente (imagen referencial):
 
-   ![Imagen 9](..images/imagen9.png)
+   ![Imagen 9](../images/imagen9.png)
 
 5. Aplica ahora el siguiente prompt:
 ``` 
@@ -214,11 +214,11 @@ Resultado referencial:
 
 6. Observa el resultado entregado por Copilot, debe ser similar al siguiente (imagen referencial):
 
-   ![Imagen 10](..images/imagen10.png)
+   ![Imagen 10](../images/imagen10.png)
 
 7. Si deseas saber cómo Copilot llegó a ese resultado puedes expandir la sección **"Razonado en x pasos"** (imagen referencial).
 
-   ![Imagen 1](..images/imagen11.png)
+   ![Imagen 1](../images/imagen11.png)
 
 8. Si desea puede insertar los datos de la tabla con el siguiente prompt:
 
@@ -228,18 +228,18 @@ Resultado referencial:
 
 Podrías ver este resultado (imagen referencial):
 
-   ![Imagen 12](..images/imagen12.png)
+   ![Imagen 12](../images/imagen12.png)
 
 9. En el panel de Copilot se debe ver el resumen de lo que se ha realizado, en la parte inferior se tiene un botón para confirmar lo creado y otro para deshacerlo. Haz clic en **Listo**.
 
-   ![Imagen 13](..images/imagen13.png)
+   ![Imagen 13](../images/imagen13.png)
 
 10. Retorna a la hoja **Inscripciones**. Puedes ahora aplicar los siguientes prompts y ver su resultado:
 ``` 
 Muestra el total de inscritos por Canal (Presencial vs Digital).
 ``` 
     
-   ![Imagen 14](..images/imagen14.png)
+   ![Imagen 14](../images/imagen14.png)
 
 **Nota:** Dependiendo de la consulta y resultado, Copilot puede proactivamente crear una hoja nueva con  los resultados.
 
@@ -257,7 +257,7 @@ Agrupa los inscritos por Rango de Edad (18-25, 26-40, 41-60, 61+), y calcula la 
 
 Puedes obtener un resultado como el siguiente (imagen referencial):
 
-   ![Imagen 15](..images/imagen15.png)
+   ![Imagen 15](../images/imagen15.png)
 
 13. Aplica ahora el siguiente prompt:
 ``` 
@@ -271,7 +271,7 @@ Identifica el medio de difusión más utilizado para la inscripción y la cantid
 ``` 
 **Resultado referencial:**
 
-   ![Imagen 16](..images/imagen16.png)
+   ![Imagen 16](../images/imagen16.png)
 
 #### Prompt 2: Desde la hoja Inscripciones
 ``` 
@@ -282,7 +282,7 @@ Usa un solo color azul institucional para la línea, agrega el título "Evoluci�
 
 Resultado referencial:
 
-   ![Imagen 17](..images/imagen17.png)
+   ![Imagen 17](../images/imagen17.png)
 
 #### Prompt 3: Desde la hoja Inscripciones
 ``` 
@@ -301,7 +301,7 @@ Genera una tabla comparando hombres vs mujeres en número de inscritos y satisfa
 
 **Resultado referencial:**
 
-   ![Imagen 18](..images/imagen18.png)
+   ![Imagen 18](../images/imagen18.png)
 
 16. Puedes ahora aplicar los siguientes prompts y ver su resultado (si deseas creas una hoja adicional por cada resultado o según corresponda).
 
@@ -319,11 +319,11 @@ Calcula un índice de efectividad por comuna, relacionando el número de inscrit
 ``` 
 > **Nota:** Es posible que Copilot consulte cómo deseas calcular el índice de efectividad por comuna. Si te hace la consulta, selecciona **Indice 50/50 normalizado** y **Enviar**.
 
-   ![Imagen 19](..images/imagen19.png)
+   ![Imagen 19](../images/imagen19.png)
 
 Se podrá observar un resultado como el siguiente:
 
-   ![Imagen 20](..images/imagen20.png)
+   ![Imagen 20](../images/imagen20.png)
 
 17. Guarda y cierra el libro.
 
@@ -453,20 +453,20 @@ Si no se definió, indica **"Por definir"**.
 
 5. Crea un nuevo correo. Pega la respuesta en el cuerpo del correo. Selecciona el icono flotante de Copilot (con apariencia de globo azul). En las opciones que aparecen, selecciona **Obtener asesoramiento**.
 
-    ![Imagen 21](..images/imagen21.png)
-    ![Imagen 22](..images/imagen22.png)
+    ![Imagen 21](../images/imagen21.png)
+    ![Imagen 22](../images/imagen22.png)
 
 6. Esto hará que la IA analice el contenido del correo en aspectos como el *Tono*, *Perspectiva del lector*, *Claridad* y *Prioridades de mejora*.
 Al final, Copilot puede plantear una serie de acciones. Si aparece la opción para aplicar las mejoras, selecciónala. Si no, escribe tú mismo un prompt para que aplique las mejoras.
 
     Imagen de resultado referencial:
 
-   ![Imagen 23](..images/imagen23.png)
+   ![Imagen 23](../images/imagen23.png)
 
    **Imagen referencial para aplicación de mejoras:**
 
 
-   ![Imagen 24](..images/imagen24.png)
+   ![Imagen 24](../images/imagen24.png)
 
    Verifica que las mejoras fueron aplicadas. Como es un correo de ejemplo, puedes descartarlo al terminar.
 
