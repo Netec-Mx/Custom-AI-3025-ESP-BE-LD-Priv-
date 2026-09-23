@@ -40,7 +40,7 @@ Los documentos a disposición son los siguientes:
 
 2. En la parte superior aparece una sección que dice **¿Qué le gustaría crear hoy?**
 
-   ![Imagen1](images/imagen1.png)
+  ![Imagen1](../images/imagen1.png)
 
 3. En el cuadro de texto, completa lo siguiente y luego haz clic en **Crear**:
  ```
