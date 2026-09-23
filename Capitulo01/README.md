@@ -48,7 +48,7 @@ Crea una presentación acerca de `/Informe_Avance_Programa_Educacion_Financiera_
 ```
 4. Define el estilo visual para la presentación y luego haz clic en **Confirmar** (imagen referencial).
  
-   ![Imagen 2](..images/imagen2.png)
+   ![Imagen2](..images/imagen2.png)
 
 Se irán mostrando los pasos que sigue la IA para la generación de la presentación.
 Al final se mostrará un mensaje indicando cómo se ha creado la presentación: número de slides, tono, contenido, etc.
