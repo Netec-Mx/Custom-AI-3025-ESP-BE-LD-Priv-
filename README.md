@@ -1,10 +1,15 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Trabaja de forma más inteligente con IA
+
+## Plataforma de laboratorios
+
+-----
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Trabaja de forma más inteligente con IA**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Aprenderá los conceptos básicos de la IA generativa, explorará cómo la IA ayuda en las tareas del lugar de trabajo, comprenderá por qué la fundamentación mejora las respuestas generadas por la IA, descubrirá cuándo los agentes de IA pueden ayudar y aprenderá a usar la IA de forma responsable y con confianza. Microsoft Copilot aparece a lo largo de todo el contenido como un ejemplo de IA en acción, con casos de uso contextualizados para BancoEstado de Chile.
 
-## Estructura
-
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
+----
 
 ## Lista de laboratorios
 
@@ -17,8 +22,13 @@ Aprenderá los conceptos básicos de la IA generativa, explorará cómo la IA ay
 - [Demo: El instructor demuestra cómo utilizar Copilot Chat para transformar la información de una reunión en una minuta estructurada, identificando los temas principales, acuerdos, decisiones y próximos pasos.](Capitulo01/README.md#demo-el-instructor-demuestra-cómo-utilizar-copilot-chat-para-transformar-la-información-de-una-reunión-en-una-minuta-estructurada-identificando-los-temas-principales-acuerdos-decisiones-y-próximos-pasos)
   - Duración estimada: 10 min
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
