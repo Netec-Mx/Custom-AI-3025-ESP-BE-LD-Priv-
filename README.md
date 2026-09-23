@@ -15,11 +15,21 @@ Aprenderá los conceptos básicos de la IA generativa, explorará cómo la IA ay
 
 ### Capítulo 1
 
-- [Demo: Caso de uso contextualizado para BancoEstado de Chile — el instructor demuestra cómo utilizar Copilot Chat para transformar información laboral en una presentación de PowerPoint, organizando el contenido y generando una primera versión de las diapositivas.](Capitulo01/README.md#demo-caso-de-uso-contextualizado-para-bancoestado-de-chile-el-instructor-demuestra-cómo-utilizar-copilot-chat-para-transformar-información-laboral-en-una-presentación-de-powerpoint-organizando-el-contenido-y-generando-una-primera-versión-de-las-diapositivas)
+- [Práctica 1: Creación de una presentación con apoyo de Copilot](Capitulo01/README.md#demo-caso-de-uso-contextualizado-para-bancoestado-de-chile-el-instructor-demuestra-cómo-utilizar-copilot-chat-para-transformar-información-laboral-en-una-presentación-de-powerpoint-organizando-el-contenido-y-generando-una-primera-versión-de-las-diapositivas)
+  
   - Duración estimada: 15 min
-- [Demo: Caso de uso contextualizado para BancoEstado de Chile — el instructor demuestra cómo proporcionar a Copilot Chat un archivo de Excel como fuente de información para realizar consultas, identificar datos relevantes y obtener conclusiones a partir de su contenido.](Capitulo01/README.md#demo-caso-de-uso-contextualizado-para-bancoestado-de-chile-el-instructor-demuestra-cómo-proporcionar-a-copilot-chat-un-archivo-de-excel-como-fuente-de-información-para-realizar-consultas-identificar-datos-relevantes-y-obtener-conclusiones-a-partir-de-su-contenido)
+ 
+---
+
+- [Práctica 2: Análisis de información con Copilot, a partir de un archivo de Excel](Capitulo01/README.md#demo-caso-de-uso-contextualizado-para-bancoestado-de-chile-el-instructor-demuestra-cómo-proporcionar-a-copilot-chat-un-archivo-de-excel-como-fuente-de-información-para-realizar-consultas-identificar-datos-relevantes-y-obtener-conclusiones-a-partir-de-su-contenido)
+  
   - Duración estimada: 15 min
-- [Demo: El instructor demuestra cómo utilizar Copilot Chat para transformar la información de una reunión en una minuta estructurada, identificando los temas principales, acuerdos, decisiones y próximos pasos.](Capitulo01/README.md#demo-el-instructor-demuestra-cómo-utilizar-copilot-chat-para-transformar-la-información-de-una-reunión-en-una-minuta-estructurada-identificando-los-temas-principales-acuerdos-decisiones-y-próximos-pasos)
+ 
+---
+
+
+- [Práctica 3: Generación de una minuta con apoyo de Copilot](Capitulo01/README.md#demo-el-instructor-demuestra-cómo-utilizar-copilot-chat-para-transformar-la-información-de-una-reunión-en-una-minuta-estructurada-identificando-los-temas-principales-acuerdos-decisiones-y-próximos-pasos)
+  
   - Duración estimada: 10 min
 
 
